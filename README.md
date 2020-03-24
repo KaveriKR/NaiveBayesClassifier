@@ -5,4 +5,4 @@ References :-
 
 1. https://triton.ml/blog/sentiment-analysis
 
-2.Dataset - https://www.kaggle.com/zynicide/wine-reviews
+2. Dataset - https://www.kaggle.com/zynicide/wine-reviews
